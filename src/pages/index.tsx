@@ -69,7 +69,7 @@ export default function Home() {
                   </FormControl>
                 </Flex>
                 <FormControl>
-                  <FormLabel color="gray.100" marginTop="10px">
+                  <FormLabel color="gray.200" marginTop="10px">
                     E-mail
                   </FormLabel>
                   <Input
